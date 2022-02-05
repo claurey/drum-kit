@@ -19,7 +19,7 @@ This is a solution Drum Kit. A challenge from The Complete 2022 Web Development 
 
 ### The challenge
 
-Users should be able to:
+Press the key and hear the sound.
 
 - Use Javascript Events
 
